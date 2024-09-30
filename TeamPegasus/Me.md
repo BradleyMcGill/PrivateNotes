@@ -25,9 +25,12 @@ Things to keep track of
 ____
 23/09/24
 
-- Good
+Good
+- 
 
-- Bad
+Better
+- 
 
+Tracking
 - Learn how to implement and how to use the strategy pattern (in java?)
 - Get better at presenting (Ajay says the speaking needs more confidence)
