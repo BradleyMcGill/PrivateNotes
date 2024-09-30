@@ -1,13 +1,29 @@
-__
-Date
+Things to keep track of
 
-- Good
-
-- Bad
-
-- Tracking
+- [ ] Present flyway to the team (pipeline and desktop)
+	- [ ] Book in a slot
+	- [ ] Actually present
+- [ ] Read more of effective Java
+- [ ] Strategy pattern
+	- [x] Read up on it
+	- [ ] Implement an example
+- [ ] Investigate the electron boundary
+- [ ] Get involved with some Java work
+	- [ ] Group work
+	- [ ] Solo (?)
+- [ ] Attend the React CoP
+	- [ ] Get the invite from Ajay
+- [ ] Add some constructive feedback for the team when asked for their 1-1s
+	- [ ] Ajay
+	- [ ] Buster
+	- [ ] Ivo
+	- [ ] James
+	- [ ] Will
+- [ ] Read some of the blogs on info.red-gate.com
+- [ ] Get familiar with the product development space on confluence
+- [ ] Work more directly on a support ticket
 ____
-Date
+23/09/24
 
 - Good
 
