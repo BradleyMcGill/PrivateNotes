@@ -26,7 +26,8 @@ ____
 23/09/24
 
 Good
-- 30/09/24 Got to work with Java when creating the deploy script extension
+- 30-09-24 Got to work with Java when creating the deploy script extension
+- 02-10-24 Was able to provide some java knowledge from working over lunch. During "Prepare" work I was able to tell how to concatenate two arrays in Java :)
 
 Better
 - 
