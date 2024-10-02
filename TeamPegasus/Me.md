@@ -9,7 +9,7 @@ Things to keep track of
 	- [ ] Implement an example
 - [ ] Investigate the electron boundary
 - [ ] Get involved with some Java work
-	- [ ] Group work
+	- [x] Group work
 	- [ ] Solo (?)
 - [ ] Attend the React CoP
 	- [ ] Get the invite from Ajay
@@ -26,7 +26,7 @@ ____
 23/09/24
 
 Good
-- 
+- 30/09/24 Got to work with Java when creating the deploy script extension
 
 Better
 - 
