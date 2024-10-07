@@ -12,7 +12,7 @@ Things to keep track of
 	- [x] Group work
 	- [ ] Solo (?)
 - [ ] Attend the React CoP
-	- [ ] Get the invite from Ajay
+	- [x] Get the invite from Ajay
 - [ ] Add some constructive feedback for the team when asked for their 1-1s
 	- [ ] Ajay
 	- [ ] Buster
