@@ -1,5 +1,4 @@
 Things to keep track of
-
 - [ ] Present flyway to the team (pipeline and desktop)
 	- [ ] Book in a slot
 	- [ ] Actually present
@@ -23,8 +22,6 @@ Things to keep track of
 - [ ] Get familiar with the product development space on confluence
 - [ ] Work more directly on a support ticket
 ____
-23/09/24
-
 Good
 - 30-09-24 Got to work with Java when creating the deploy script extension
 - 02-10-24 Was able to provide some java knowledge from working over lunch. During "Prepare" work I was able to tell how to concatenate two arrays in Java :)

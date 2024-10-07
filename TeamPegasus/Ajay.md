@@ -1,5 +1,3 @@
-26-09-24
-
 Good
 - 26-09-24 Very eager to share knowledge in group work and on PRs ("more correct" solutions)
 - 26-09-24 Very supportive after demo when I was unsure as to how it went 
