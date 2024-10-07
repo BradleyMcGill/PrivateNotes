@@ -1,3 +1,4 @@
+[[private/TeamPegasus/Historical/James|History]]
 Good
 - 30-09-24 Shares useful key binds with the team
 - 02-10-24 Very interesting discussion with Ajay about where prepare/deploy belongs and picked through some problems verbally
