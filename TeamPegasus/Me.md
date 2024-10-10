@@ -4,9 +4,9 @@ Things to keep track of
 	- [ ] Book in a slot
 	- [ ] Actually present
 - [ ] Read more of effective Java
-- [ ] Strategy pattern
+- [x] Strategy pattern
 	- [x] Read up on it
-	- [ ] Implement an example
+	- [x] Implement an example
 - [ ] Investigate the electron boundary
 - [ ] Get involved with some Java work
 	- [x] Group work
@@ -19,10 +19,12 @@ Things to keep track of
 	- [ ] Ivo
 	- [ ] James
 	- [ ] Will
-- [ ] Read some of the blogs on info.red-gate.com
+- [x] Read some of the blogs on info.red-gate.com
 	- 04-10-24 Read [this](https://info.red-gate.com/rg/blog/2024/10/introducing-our-new-approach-to-redgate-monitor-competitor-displacement) about enabling customers to switch to RGMonitor with their 12 free months if they are on a competitors plan
 - [ ] Get familiar with the product development space on confluence
-- [ ] Work more directly on a support ticket
+- [x] Work more directly on a support ticket
+	- 10-10-24 Worked with the team on the Oracle bug
+	- 
 ____
 Good
 - 30-09-24 Got to work with Java when creating the deploy script extension
